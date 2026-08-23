@@ -14,10 +14,10 @@ Explore my data analytics projects:
 - [Discovering Sales Performance with SQL](https://github.com/isti20/data-analytics-portfolio)
 
 Here you will find all of the projects that I have completed so far during my Data Science learning journey, including:
--Python Programming
--SQL
--MySQL Databases
--Power BI Visualizations
+- Python Programming
+- SQL
+- MySQL Databases
+- Power BI Visualizations
 
 More projects coming soon!
 
