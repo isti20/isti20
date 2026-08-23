@@ -1,6 +1,6 @@
 # Welcome to my github 👋
 
-## **About Me**
+<h2>About Me</h2>
 
 I am an aspiring Data Analyst passionate about finding patterns and turning data into meaningful insights. With a background in Mathematics, I bring strong analytical, problem-solving, and quantitative skills to my data journey.
 
