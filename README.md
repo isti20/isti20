@@ -1,6 +1,6 @@
 # Welcome to my github 👋
 
-<h2>About Me</h2>
+**About Me**
 
 I am an aspiring Data Analyst passionate about finding patterns and turning data into meaningful insights. With a background in Mathematics, I bring strong analytical, problem-solving, and quantitative skills to my data journey.
 
@@ -8,7 +8,7 @@ I started my journey by completing the HIT Bootcamp in ERP Programming at Hashmi
 
 I am currently building my data analytics portfolio through hands-on projects using SQL, Python, Power BI, and other data tools.
 
-## **Index**
+**Index**
 
 Explore my data analytics projects:
 - [Discovering Sales Performance with SQL](https://github.com/isti20/data-analytics-portfolio)
@@ -21,7 +21,7 @@ Here you will find all of the projects that I have completed so far during my Da
 
 More projects coming soon!
 
-## **Connect With Me**
+**Connect With Me**
 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/iisistiqomah/
 - Email: iisistiqomah20@gmail.com
