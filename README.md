@@ -2,9 +2,9 @@
 
 ## About Me
 
-I am an aspiring Data Analyst with an interest in transforming data into meaningful insights to support business decision-making. I am an aspiring Data Analyst passionate about finding patterns and turning data into meaningful insights. With a background in Mathematics, I bring strong analytical, problem-solving, and quantitative skills to my data journey.
+I am an aspiring Data Analyst passionate about finding patterns and turning data into meaningful insights. With a background in Mathematics, I bring strong analytical, problem-solving, and quantitative skills to my data journey.
 
-I started my Data journey by completing the HIT Bootcamp in ERP Programming at Hashmicro, and then completed the Data Analyst Python 2026 & Project (New Update: + SQL) course on Udemy. Through these learning experiences and personal projects, I continue to strengthen my skills in data analysis and explore how data can support better decision-making.
+I started my Data journey by completing the HIT Bootcamp in ERP Programming at Hashmicro, and then completed the Data Analyst Python 2026 & Project (New Update: + SQL) course on Udemy.
 
 I am currently building my data analytics portfolio through hands-on projects using SQL, Python, Power BI, and other data tools.
 
