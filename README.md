@@ -2,7 +2,7 @@
 
 ### **About Me**
 
-I am an aspiring Data Analyst passionate about finding patterns and turning data into meaningful insights. With a background in Mathematics, I bring strong analytical, problem-solving, and quantitative skills to my data journey.
+My name is Iis Istiqomah, I am an aspiring Data Analyst passionate about finding patterns and turning data into meaningful insights. With a background in Mathematics, I bring strong analytical, problem-solving, and quantitative skills to my data journey.
 
 I started my data journey by completing the HIT Bootcamp in ERP Programming at Hashmicro, and then completed the Data Analyst Python 2026 & Project (New Update: + SQL) course on Udemy.
 
