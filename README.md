@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to my github 👋
 
-<!--
-**isti20/isti20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am an aspiring Data Analyst with an interest in transforming data into meaningful insights to support business decision-making. I am an aspiring Data Analyst passionate about finding patterns and turning data into meaningful insights. With a background in Mathematics, I bring strong analytical, problem-solving, and quantitative skills to my data journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I started my Data journey by completing the HIT Bootcamp in ERP Programming at Hashmicro, and then completed the Data Analyst Python 2026 & Project (New Update: + SQL) course on Udemy. Through these learning experiences and personal projects, I continue to strengthen my skills in data analysis and explore how data can support better decision-making.
+
+I am currently building my data analytics portfolio through hands-on projects using SQL, Python, Power BI, and other data tools.
+
+## Index
+
+Explore my data analytics projects:
+- [Discovering Sales Performance with SQL](LINK_PROJECT_KAMU)
+
+More projects coming soon!
+
+## Connect With Me
+
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/iisistiqomah/)
+- Email: iisistiqomah20@gmail.com
