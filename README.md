@@ -11,11 +11,11 @@ I am currently building my data analytics portfolio through hands-on projects us
 ## Index
 
 Explore my data analytics projects:
-- [Discovering Sales Performance with SQL](LINK_PROJECT_KAMU)
+- [Discovering Sales Performance with SQL](https://github.com/isti20/data-analytics-portfolio)
 
 More projects coming soon!
 
 ## Connect With Me
-
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/iisistiqomah/)
+📫 How to reach me:
+- LinkedIn: https://www.linkedin.com/in/iisistiqomah/
 - Email: iisistiqomah20@gmail.com
